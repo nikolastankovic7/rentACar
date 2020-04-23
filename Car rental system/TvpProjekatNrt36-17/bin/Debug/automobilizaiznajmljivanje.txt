@@ -1,0 +1,6 @@
+0 Honda Accord 2010 2200 Prednji Manuelni Limuzina Benzin 5
+1 Honda Civic 2007 1800 Prednji Manuelni Hečbek Benzin 5
+2 Subaru Impreza 2009 2000 Prednji Manuelni Hečbek Dizel 5
+3 Toyota Supra 1994 4500 Prednji Manuelni Limuzina Benzin 5
+4 Audi TT 2002 1800 Prednji Manuelni Kupe Benzin 3
+5 Fiat Punto 2008 1200 Prednji Manuelni Hečbek Benzin 5
